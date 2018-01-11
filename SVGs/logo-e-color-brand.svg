@@ -1,0 +1,10 @@
+<svg id="eds-icon--logo-e-color-brand_svg" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 120 120">
+    <defs>
+        <linearGradient id="eds-icon--logo-e-color-brand_gradient" x1="10.2" y1="113.54" x2="113.2" y2="2.79" gradientUnits="userSpaceOnUse">
+            <stop offset="0" stop-color="#f6682f"/>
+            <stop offset="1" stop-color="#ffb91e"/>
+        </linearGradient>
+    </defs>
+    <circle cx="60" cy="60" r="59" style="fill:url(#eds-icon--logo-e-color-brand_gradient)"/>
+    <path d="M76.24,76.45h0a.58.58,0,0,0-.56-.42H54.29a.56.56,0,0,1-.56-.56V65.78a.56.56,0,0,1,.56-.55H72.64a.56.56,0,0,0,.56-.56q0-4.25,0-8.5a.56.56,0,0,0-.56-.56H54.29a.56.56,0,0,1-.56-.54V45.44a.56.56,0,0,1,.56-.56H75a.56.56,0,0,0,.56-.56V35.56A.56.56,0,0,0,75,35H51.52A8.52,8.52,0,0,0,43,43.52V85.44a.56.56,0,0,0,.56.56H68C77.27,86,76.86,78.43,76.24,76.45Z" style="fill:#fff"/>
+</svg>

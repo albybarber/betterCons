@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="50" height="54" viewBox="0 0 50 54">
+    <g fill="none" fill-rule="evenodd" transform="translate(-22 -26)">
+        <rect width="96" height="96"/>
+        <g transform="translate(23 27)">
+            <polygon fill="#F8FAFF" points="0 42.539 50.72 42.539 50.72 14.725 0 14.725"/>
+            <polygon fill="#F6682F" points="25.36 28.632 .001 42.539 .001 14.725"/>
+            <polygon fill="#F6682F" points=".001 42.539 50.721 42.539 50.721 14.725"/>
+            <polyline stroke="#363A43" stroke-width="1.367" points="42.54 14.725 50.721 14.725 50.721 42.539 .001 42.539 .001 14.725 8.181 14.725"/>
+            <polygon fill="#F8FAFF" points="42.54 19.634 25.361 28.633 8.181 19.634 8.181 .001 35.996 .001 42.54 6.545"/>
+            <path stroke="#363A43" stroke-width="1.367" d="M50.7204,14.7252 L0.0004,42.5392"/>
+            <polygon fill="#D2D6DF" points="12.272 8.999 31.905 8.999 31.905 0 12.272 0"/>
+            <path stroke="#363A43" stroke-width="1.367" d="M0.0007,14.7252 L25.3607,28.6322"/>
+            <polyline stroke="#363A43" stroke-width="1.367" points="42.54 6.545 35.996 6.545 35.996 .001"/>
+            <polyline stroke="#363A43" stroke-width="1.367" points="42.54 19.634 42.54 6.545 35.996 .001 8.181 .001 8.181 19.634"/>
+            <path stroke="#363A43" stroke-width="1.367" d="M12.2716 11.4529L38.4496 11.4529M12.2716 14.7252L38.4496 14.7252M12.2716 17.9975L38.4496 17.9975M12.2716 21.2697L38.4496 21.2697M17.998 24.5419L32.723 24.5419M13.9077 3.2724L15.5437 3.2724M17.1799 3.2724L18.8159 3.2724M20.4521 3.2724L22.0881 3.2724"/>
+        </g>
+    </g>
+</svg>

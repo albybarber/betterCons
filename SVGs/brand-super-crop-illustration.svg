@@ -1,0 +1,24 @@
+<svg style="display: block" viewBox="0 309 1280 283" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+   <!-- Generator: Sketch 41.2 (35397) - http://www.bohemiancoding.com/sketch -->
+   <desc>Created with Sketch.</desc>
+   <defs>
+       <rect id="path-1" x="0" y="0" width="1280" height="284"></rect>
+       <linearGradient x1="0%" y1="50%" x2="100%" y2="50%" id="linearGradient-3">
+           <stop stop-color="#37C5ED " offset="0%"></stop>
+           <stop stop-color="#4DDDB9 " offset="100%"></stop>
+       </linearGradient>
+   </defs>
+   <g id="Group-2" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" transform="translate(0.000000, 309.000000)">
+       <g id="Group">
+           <mask id="mask-2" fill="white">
+               <use xlink:href="#path-1"></use>
+           </mask>
+           <g id="Mask"></g>
+           <g mask="url(#mask-2)" id="Combined-Shape" fill="url(#linearGradient-3)">
+               <g transform="translate(0.000000, 1.000000)">
+                   <path d="M549.355,283.444 C568.034,239.594 581.349,199.668 581.349,169.263 C581.349,110.801 553.95,82.405 502.842,82.405 C435.184,82.405 370.167,138.538 270.215,150.281 C283.175,72.029 255.192,0.001 184.641,0.001 C103.977,0.001 73.256,125.699 133.769,199.907 C119.916,225.311 92.907,247.35 40.713,247.35 C26.06,247.35 12.671,243.94 0,238.232 L0,283.444 L203.15,283.444 C213.16,273.358 222.112,262.402 229.995,250.851 C239.649,252.203 249.771,253.059 260.642,253.059 C344.795,253.059 423.707,213.025 455.046,194.969 C445.793,223.289 432.389,252.874 417.362,283.444 L549.355,283.444 Z M1172.959,283.47886 C1172.935,282.45486 1172.91,281.42986 1172.91,280.40786 C1172.91,181.89786 1301.158,167.13186 1357.297,283.47886 L1360.132,283.47886 L1360.132,119.21986 C1244.944,39.2158598 1086,102.09186 1086,280.65786 C1086,281.60286 1086.022,282.53686 1086.028,283.47886 L1172.959,283.47886 Z"></path>
+               </g>
+           </g>
+       </g>
+   </g>
+</svg>

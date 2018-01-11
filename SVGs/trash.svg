@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 19.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="eds-icon--trash_svg"
+	 xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 24 24"
+	 enable-background="new 0 0 24 24" xml:space="preserve">
+<path id="eds-icon--trash_base" fill-rule="evenodd" clip-rule="evenodd" d="M5,6h1v15H5V6z M18,6h1v15h-1V6z M5,21
+	h14v1H5V21z"/>
+<path id="eds-icon--trash_top" fill-rule="evenodd" clip-rule="evenodd" d="M15,4V2H9v2H4v1h16V4H15z M14,4h-4V3h4
+	V4z"/>
+<g id="eds-icon--trash_lines">
+	<rect x="9" y="8" fill-rule="evenodd" clip-rule="evenodd" width="1" height="11"/>
+	<rect x="14" y="8" fill-rule="evenodd" clip-rule="evenodd" width="1" height="11"/>
+</g>
+</svg>

@@ -1,0 +1,4 @@
+<svg class="eds-icon--receipt__svg" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24">
+  <path class="eds-icon--receipt__base" fill-rule="evenodd" clip-rule="evenodd" d="M5 3h14v17.3l-1.7-1-2.7 1.5-2.6-1.5-2.7 1.5-2.7-1.5-1.7 1V3zM2 2v1h2v19l2.7-1.5L9.3 22l2.7-1.5 2.7 1.5 2.7-1.5L20 22V3h2V2H2z"/>
+  <path class="eds-icon--receipt__bars" d="M8 8h8v1H8zm0 3h8v1H8zm0 3h8v1H8z"/>
+</svg>

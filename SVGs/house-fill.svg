@@ -1,0 +1,4 @@
+<svg class="eds-icon--house-fill__svg" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24">
+  <path class="eds-icon--house-fill__base" fill-rule="evenodd" clip-rule="evenodd" d="M12 5.2l-8 6.3V22h6v-6h4v6h6V11.5l-8-6.3z"/>
+  <path class="eds-icon--house-fill__roof" fill-rule="evenodd" clip-rule="evenodd" d="M12 2L2 10.2l.6.8L12 3.5l9.3 7.5.7-.8"/>
+</svg>

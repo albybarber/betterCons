@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 20.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="eds-icon--link_svg"
+	 xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 24 24"
+	 enable-background="new 0 0 24 24" xml:space="preserve">
+<polygon id="eds-icon--link_right" fill-rule="evenodd" clip-rule="evenodd" points="14,7 14,8 14,10 15,10 15,8 
+	21,8 21,16 15,16 15,14 14,14 14,16 14,17 15,17 22,17 22,7 "/>
+<rect id="eds-icon--link_middle" x="7" y="11.5" fill-rule="evenodd" clip-rule="evenodd" width="10" height="1"/>
+<path id="eds-icon--link_left" fill-rule="evenodd" clip-rule="evenodd" d="M2,7v10h7h1v-1v-2H9v2H3V8h6v2h1V8V7H2z
+	"/>
+</svg>

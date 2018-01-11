@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 19.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="eds-icon--table-fill_svg"
+	 xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 24 24"
+	 enable-background="new 0 0 24 24" xml:space="preserve">
+<path id="eds-icon--table-fill_base" fill-rule="evenodd" clip-rule="evenodd" d="M4,7v10h16V7H4z"/>
+<g id="eds-icon--table-fill_circles">
+	<circle fill-rule="evenodd" clip-rule="evenodd" cx="6" cy="4" r="2"/>
+	<circle fill-rule="evenodd" clip-rule="evenodd" cx="12" cy="4" r="2"/>
+	<circle fill-rule="evenodd" clip-rule="evenodd" cx="18" cy="4" r="2"/>
+	<circle fill-rule="evenodd" clip-rule="evenodd" cx="6" cy="20" r="2"/>
+	<circle fill-rule="evenodd" clip-rule="evenodd" cx="12" cy="20" r="2"/>
+	<circle fill-rule="evenodd" clip-rule="evenodd" cx="18" cy="20" r="2"/>
+</g>
+</svg>

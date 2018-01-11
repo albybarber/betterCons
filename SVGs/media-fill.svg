@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 20.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="eds-icon--media_svg"
+	 xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 24 24"
+	 enable-background="new 0 0 24 24" xml:space="preserve">
+<path id="eds-icon--media-fill_base" fill-rule="evenodd" clip-rule="evenodd" fill="#010101" d="M21,3v2H3V3H2v18h1v-2h18
+	v2h1V3H21z"/>
+<g id="eds-icon--media-fill_dashes">
+	<rect x="3" y="15" fill-rule="evenodd" clip-rule="evenodd" fill="#FFFFFF" width="2" height="1"/>
+	<rect x="3" y="11.5" fill-rule="evenodd" clip-rule="evenodd" fill="#FFFFFF" width="2" height="1"/>
+	<rect x="3" y="8" fill-rule="evenodd" clip-rule="evenodd" fill="#FFFFFF" width="2" height="1"/>
+	<rect x="19" y="15" fill-rule="evenodd" clip-rule="evenodd" fill="#FFFFFF" width="2" height="1"/>
+	<rect x="19" y="11.5" fill-rule="evenodd" clip-rule="evenodd" fill="#FFFFFF" width="2" height="1"/>
+	<rect x="19" y="8" fill-rule="evenodd" clip-rule="evenodd" fill="#FFFFFF" width="2" height="1"/>
+</g>
+<path id="eds-icon--media-fill_play" fill-rule="evenodd" clip-rule="evenodd" fill="#FFFFFF" d="M10,8.3v7.2l5.7-3.9
+	L10,8.3z M11,10L11,10l2.8,1.6l-2.8,2V10z"/>
+</svg>

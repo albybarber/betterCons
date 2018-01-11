@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 19.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="eds-icon--title-edit_svg"
+	 xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 24 24"
+	 enable-background="new 0 0 24 24" xml:space="preserve">
+<path id="eds-icon--title-edit_base" fill-rule="evenodd" clip-rule="evenodd" d="M2,2v3h1V3h5v10H6v1h5v-1H9V3h5v2
+	h1V2H2z"/>
+<g id="eds-icon--title-edit_lines">
+	<rect x="15" y="9" fill-rule="evenodd" clip-rule="evenodd" width="7" height="1"/>
+	<rect x="15" y="13" fill-rule="evenodd" clip-rule="evenodd" width="7" height="1"/>
+	<rect x="6" y="17" fill-rule="evenodd" clip-rule="evenodd" width="16" height="1"/>
+	<rect x="6" y="21" fill-rule="evenodd" clip-rule="evenodd" width="16" height="1"/>
+</g>
+</svg>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 19.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="eds-icon--chat-fill_svg"
+	 xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 24 24"
+	 enable-background="new 0 0 24 24" xml:space="preserve">
+<path id="eds-icon--chat-fill_base" fill-rule="evenodd" clip-rule="evenodd" d="M15,4H9c-3.9,0-7,3.1-7,7s3.1,7,7,7h1l2,2
+	l1.8-2H15c3.9,0,7-3.1,7-7S18.9,4,15,4z"/>
+<g id="eds-icon--chat-fill_dots">
+	<rect x="7" y="10" fill-rule="evenodd" clip-rule="evenodd" fill="#FFFFFF" width="2" height="2"/>
+	<rect x="11" y="10" fill-rule="evenodd" clip-rule="evenodd" fill="#FFFFFF" width="2" height="2"/>
+	<rect x="15" y="10" fill-rule="evenodd" clip-rule="evenodd" fill="#FFFFFF" width="2" height="2"/>
+</g>
+</svg>

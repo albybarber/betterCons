@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 19.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="eds-icon--credit-card-front_svg"
+	 xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 24 24"
+	 enable-background="new 0 0 24 24" xml:space="preserve">
+<path id="eds-icon--credit-card-front_base" fill-rule="evenodd" clip-rule="evenodd" d="M2,19h20V5H2"/>
+<g id="eds-icon--credit-card-front_dashes">
+	<rect x="5" y="15" fill-rule="evenodd" clip-rule="evenodd" fill="#FFFFFF" width="2" height="1"/>
+	<rect x="9" y="15" fill-rule="evenodd" clip-rule="evenodd" fill="#FFFFFF" width="2" height="1"/>
+	<rect x="13" y="15" fill-rule="evenodd" clip-rule="evenodd" fill="#FFFFFF" width="2" height="1"/>
+	<rect x="17" y="15" fill-rule="evenodd" clip-rule="evenodd" fill="#FFFFFF" width="2" height="1"/>
+</g>
+<polygon id="eds-icon--credit-card-front_square" fill-rule="evenodd" clip-rule="evenodd" fill="#FFFFFF" points="
+	5,12 5,10 7,10 7,12 "/>
+</svg>
